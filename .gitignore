@@ -1,0 +1,4 @@
+lsh
+
+# Project exclude paths
+/cmake-build-debug/
